@@ -1,1 +1,1 @@
-export { default } from "./lib/sugify.js";
+export { default } from "./lib/genslug.js";

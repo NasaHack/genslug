@@ -1,5 +1,5 @@
 {
-  "name": "sugify",
+  "name": "genslug",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NasaHack/sugify.git"
+    "url": "git+https://github.com/NasaHack/genslug.git"
   },
-  "keywords": ["slug", "sugify", "slug generator"],
+  "keywords": ["genslug", "slug", "slug generator"],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/NasaHack/sugify/issues"
+    "url": "https://github.com/NasaHack/genslug/issues"
   },
-  "homepage": "https://github.com/NasaHack/sugify#readme",
+  "homepage": "https://github.com/NasaHack/genslug#readme",
   "description": "একটি URL-friendly Slug তৈরি করার জন্য ছোট্ট একটি লাইব্রেরি।"
 }
