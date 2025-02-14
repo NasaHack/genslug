@@ -1,0 +1,24 @@
+{
+  "name": "sugify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NasaHack/sugify.git"
+  },
+  "keywords": ["slug", "sugify", "slug generator"],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NasaHack/sugify/issues"
+  },
+  "homepage": "https://github.com/NasaHack/sugify#readme",
+  "description": "একটি URL-friendly Slug তৈরি করার জন্য ছোট্ট একটি লাইব্রেরি।"
+}
